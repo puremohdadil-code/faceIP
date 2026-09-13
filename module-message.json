@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "kind": "observation|assessment|report",
+  "module": "module_name",
+  "request_id": "uuid",
+  "payload": {}
+}
